@@ -2,4 +2,4 @@ streamlit
 requests
 pandas
 plotly
-pandasql
+pandasql==0.7.3
